@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Pizza de bacon com queijo cheddar",
+    "onSale": false,
+    "tags": ["Fast-food", "Pizza"],
+    "image": "https://images.pexels.com/photos/1653877/pexels-photo-1653877.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Feita com o delicioso queijo cheddar, essa pizza é perfeita para servir no happy hour com os amigos e acompanhada de uma cerveja geladinha.",
+    "price": 29.9,
+    "salePrice": null,
+    "ratings": 4.4
+  },
+  {
+    "id": 2,
+    "name": "Pizza de calabresa",
+    "onSale": true,
+    "tags": ["Fast-food", "Pizza"],
+    "image": "https://images.pexels.com/photos/4109111/pexels-photo-4109111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Uma deliciosa combinação de Linguiça Calabresa, rodelas de cebolas frescas, azeitonas pretas, mussarela, polpa de tomate, orégano e massa especial.",
+    "price": 35,
+    "salePrice": 30,
+    "ratings": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Combo burguer e fritas",
+    "onSale": true,
+    "tags": ["Fast-food", "Lanche"],
+    "image": "https://images.pexels.com/photos/14382405/pexels-photo-14382405.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Lanche com 2 hambúrgueres, queijo, alface americano, molho especial e batata frita.",
+    "price": 37.9,
+    "salePrice": 32,
+    "ratings": 4.9
+  },
+  {
+    "id": 4,
+    "name": "Ruffles - Churrasco",
+    "onSale": false,
+    "tags": ["Aperitivos", "Salgadinho"],
+    "image": "https://hiperideal.vteximg.com.br/arquivos/ids/191632-1000-1000/2096501.jpg?v=637643959460630000",
+    "description": "Salgadinho ruffles 76g sabor churrasco.",
+    "price": 4.5,
+    "salePrice": null,
+    "ratings": 4.5
+  },
+  {
+    "id": 8,
+    "name": "Ruffles - Original",
+    "onSale": false,
+    "tags": ["Aperitivos", "Salgadinho"],
+    "image": "https://cf.shopee.com.br/file/f8ecd87f460ffd870bb404d3e8355191",
+    "description": "Salgadinho ruffles 167g sabor original.",
+    "price": 9,
+    "salePrice": null,
+    "ratings": 4.5
+  },
+  {
+    "id": 9,
+    "name": "Ruffles - Cebola e salsa",
+    "onSale": false,
+    "tags": ["Aperitivos", "Salgadinho"],
+    "image": "https://images.tcdn.com.br/img/img_prod/673450/batata_ruffles_cebola_e_salsa_92_grs_4803_1_d6106679bdec87f682efb1bea036bc31.jpg",
+    "description": "Salgadinho ruffles 92g sabor cebola e salsa.",
+    "price": 5.5,
+    "salePrice": null,
+    "ratings": 4.5
+  },
+  {
+    "id": 5,
+    "name": "Coca-cola 2L",
+    "onSale": true,
+    "tags": ["Bebida", "Refrigerante"],
+    "image": "http://d2r9epyceweg5n.cloudfront.net/stores/001/266/031/products/coca-2lt-site1-3fe594a7cce8f4f97c16402142098102-640-0.png",
+    "description": "Garrafa de Coca-cola gelada (2 Litros) ",
+    "price": 10.9,
+    "salePrice": 9,
+    "ratings": 5.0
+  },
+  {
+    "id": 6,
+    "name": "Guarana 2L",
+    "onSale": true,
+    "tags": ["Bebida", "Refrigerante"],
+    "image": "https://thepetitpizzaria.com.br/gramado/wp-content/uploads/2021/06/guarana.jpg",
+    "description": "Garrafa de Coca-cola gelada (2 Litros) ",
+    "price": 8.9,
+    "salePrice": 7,
+    "ratings": 5.0
+  }
+]
